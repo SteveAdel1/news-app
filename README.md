@@ -1,6 +1,7 @@
 # news_app
 
-A new Flutter project.
+news app
+that can show news at 6 different categories
 
 ## Getting Started
 
